@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timley53
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently learning NextJs
+- 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me kuntimmy@gmail.com
 
