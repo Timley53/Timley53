@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timley53
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Node js
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me xtimley@gmail.com
 
