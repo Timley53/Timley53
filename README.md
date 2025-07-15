@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Timley53
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently learning Node js
-- 💞️ I’m looking to collaborate on projects
+- 🌱 Don't let my repo confuse you, I write frontend code. Yes but
+- 🔐 I am to be a Web 3 Security Auditor. 
+- 💞️ No love yet, just hopes and dreams. Only God can sort the love life part.
 - 📫 How to reach me xtimley@gmail.com
 
 <!---
